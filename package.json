@@ -1,7 +1,7 @@
 {
   "name": "toggl-api",
   "description": "Toggl API for Node.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./lib/client.js",
   "keywords": [
     "api",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/7eggs/node-toggl-api.git"
+    "url": "git://github.com/occitech/node-toggl-api"
   },
   "dependencies": {
     "custom-error-generator": "^7.0.0",
@@ -21,6 +21,7 @@
   "devDependencies": {},
   "author": "Alexander Makarenko <estliberitas@gmail.com>",
   "contributors": [
-    "Mark Dickson Jr <markdicksonjr@gmail.com>"
+    "Mark Dickson Jr <markdicksonjr@gmail.com>",
+    "Occitech <equipe@occitech.fr>"
   ]
 }
